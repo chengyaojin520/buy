@@ -44,5 +44,4 @@ git status //查看有哪些没提交的  红色的是没提交的
 git add .   //存到本地仓储
 git commit -m "init my project"  //提交
 
-
-photo_neiron 数据表插入数据INSERT into photo_neiron values(null,'2019-08-24 02:20:20',5,'从俄罗斯三姐妹联手杀父折射出的俄国社会分裂与争议','2018年7月的一天，居住在莫斯科的一家三姐妹合作，亲手杀死了正在熟睡中的父亲，57岁的米哈伊尔·卡查杜亚恩')
+第一次更新
