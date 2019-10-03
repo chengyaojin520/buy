@@ -45,3 +45,4 @@ git add .   //存到本地仓储
 git commit -m "init my project"  //提交
 
 第一次更新
+同事跟新了内容
